@@ -8,3 +8,4 @@ He also experienced the same issue.
 Then, I had a talk with some seniors, and they encouraged me to search even furhter.
 So, I did that, and eventually found out how to.
 It was fun, and I got to know a lot more than I thaught, I would.
+This was a new experience.
