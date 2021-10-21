@@ -1,6 +1,3 @@
-This one was an easy one, because I already had an idea of simple bash terminal commands.
-#
-#
 Commands Used:
 # 
 mkdir Coordinates-Location
