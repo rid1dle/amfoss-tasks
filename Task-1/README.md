@@ -1,0 +1,1 @@
+It was an easy one. We just had to open the amfoss github's page, open the starme repo, download the script, copy the script, open the amfoss repo, open the console there and just paste the wnole script there and press enter. Nothing much to do here.
