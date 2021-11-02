@@ -1,0 +1,1 @@
+This was quite exalarating of a task. I got to know so many of bash's commands. And to be frank, for the first time in my life, I felt like a hacker, thought I know this is no where enough and frankly I am not even much interested in Hacking and stuff, but you know, Every boy has dreamt of being a hacker or something when young. XD XD
