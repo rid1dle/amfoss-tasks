@@ -1,0 +1,1 @@
+This was easy for me, as I already knew about JS. But even though, I had knowledge about it, the task still made me to google lots. The task was fun and I enjoyed it thoroughly, especially the chart one.
