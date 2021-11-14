@@ -1,0 +1,1 @@
+I did start this task but, I will be frank, It was boaring, so I left it in the middle. I did some of them though. I did Week -1 All tasks, Week -2 All tasks and Week -3 Half of the tasks. i.e Task-1. I left Week -0 Scratch task, Week -3 Task-2 and Week -4 All the tasks.
