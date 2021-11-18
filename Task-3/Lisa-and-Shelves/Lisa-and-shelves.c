@@ -1,18 +1,20 @@
 #include <stdio.h>
 
 int main () {
-    long long int n;
+    long long int n, x = 0;
     scanf ("%lld", &n);
 
-    if (n > 0 && n <= pow (10, 12)) {
+    if (n > 0 && n <= 1000000000000) {
 
-        int count = 0;
+        long long int count = 0;
 
-        for (int i = 1; i * i <= n; i++) {
-
+        for (long long int i = 1; x <= n; i++) {
+            
+            x = i * i;
+            
             if (n % i == 0) {
 
-                if (i * i < n) 
+                if (x < n) 
                     count += 2;
 
                 else 
@@ -21,6 +23,6 @@ int main () {
             }
         }
 
-        printf ("%d\n", count);
+        printf ("%lld\n", count);
     }
 }
