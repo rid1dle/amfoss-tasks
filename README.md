@@ -3,16 +3,16 @@
 **I am Himanshu Lath from Bhagalpur, Bihar. A fresher at Amrita School of Engineering(CSE 2021)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Task-00](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-0)|Install Ubuntu 20.04 [Desktop]|Completed
-[Task-01](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-1)|Star all the amFOSS repositories|Completed
-[Task-02](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-2)|Begin your journey with Linux and Git|Completed
-[Task-03](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-3)|Programming|Done Seven Questions
-[Task-04](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-4)|Aerglo Mars|Completed
-[Task-05](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-5)|Let me C|Completed
-[Task-06](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-6)|Flutter based UI task|Completed
-[Task-07](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-7)|Rich Scraper|Attempted but Failed
-[Task-08](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-8)|JSExplorer|Completed
-[Task-09](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-9)|Setup a Simple Personal Website|Completed
+[Task-0](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-0)|Install Ubuntu 20.04 [Desktop]|Completed
+[Task-1](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-1)|Star all the amFOSS repositories|Completed
+[Task-2](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-2)|Begin your journey with Linux and Git|Completed
+[Task-3](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-3)|Programming|Done Seven Questions
+[Task-4](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-4)|Aerglo Mars|Completed
+[Task-5](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-5)|Let me C|Completed
+[Task-6](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-6)|Flutter based UI task|Completed
+[Task-7](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-7)|Rich Scraper|Attempted but Failed
+[Task-8](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-8)|JSExplorer|Completed
+[Task-9](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-9)|Setup a Simple Personal Website|Completed
 [Task-10](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-10)|CS50|Attempted but Incomplete
 [Task-11](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-11)|Poster Design|Completed
 [Task-12](https://github.com/himanshulath/amfoss-tasks/tree/master/Task-12)|Make the Block|Not Attempted yet
