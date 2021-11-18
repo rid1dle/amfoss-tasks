@@ -1,5 +1,5 @@
 # amfoss-tasks
-# All the amFOSS tasks by Himanshu Lath
+## All the amFOSS tasks by Himanshu Lath
 **I am Himanshu Lath from Bhagalpur, Bihar. A fresher at Amrita School of Engineering(CSE 2021)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
